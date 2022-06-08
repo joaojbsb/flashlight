@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "flashlight",
+    "slug": "flashlight",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
